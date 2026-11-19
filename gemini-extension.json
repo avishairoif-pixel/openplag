@@ -1,0 +1,12 @@
+{
+  "name": "openplag",
+  "version": "1.0.0",
+  "description": "Free originality checks for academic papers, theses and essays: 180M+ open-access records and the open web, in 8 languages. No account or API key.",
+  "mcpServers": {
+    "openplag": {
+      "httpUrl": "https://app.openplaglabs.com/mcp",
+      "timeout": 60000
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
