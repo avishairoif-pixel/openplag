@@ -1,5 +1,7 @@
 # OpenPlag Labs for Gemini CLI
 
+[![M8ven Score](https://m8ven.ai/badge/mcp/avishairoif-pixel-openplag-j4tmm8?v=e75556d6c636b7cc92ea39325e740998)](https://m8ven.ai/mcp/avishairoif-pixel-openplag-j4tmm8?s=readme)
+
 Free originality checks for academic papers, theses and essays, right from Gemini CLI. A document is compared with a local index of more than 180 million open-access records and the open web, in eight languages: English, Hebrew, Arabic, Russian, French, Spanish, German and Chinese. No account and no API key are needed.
 
 ## Install
